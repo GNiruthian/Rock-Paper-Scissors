@@ -6,6 +6,3 @@ def get_choices():
 
 choices = get_choices()
 print(choices)
-
-
-
